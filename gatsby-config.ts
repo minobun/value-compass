@@ -4,7 +4,6 @@ const config: GatsbyConfig = {
   pathPrefix: "value-compass",
   siteMetadata: {
     title: `Value Compass`,
-    siteUrl: `https://minobun.github.io/value-compass`,
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
   // If you use VSCode you can also use the GraphQL plugin
